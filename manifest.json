@@ -1,6 +1,6 @@
 {
-    "name": "aso_kapi",
-    "short_name": "aso_kapi",
+    "name": "terace_admin",
+    "short_name": "terace_admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
