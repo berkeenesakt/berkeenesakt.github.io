@@ -1,6 +1,6 @@
 {
-    "name": "terace_admin",
-    "short_name": "terace_admin",
+    "name": "terace",
+    "short_name": "terace",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
